@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@blueprintjs/core": "3.54.0",
+    "@blueprintjs/select": "3.19.1",
+    "faker": "5.1.0",
+    "lodash": "latest",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-move": "6.5.0",
+    "react-scripts": "^5.0.0",
+    "react-virtuoso": "latest"
+  },
+  "main": "/index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "name": "roam-attr-table",
+  "description": ""
+}
